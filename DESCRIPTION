@@ -1,0 +1,10 @@
+Package: monduliDataset
+Type: Package
+Title: Survey data from a Maasai community in Monduli, Tanzania
+Version: 0.1.0
+Author: Aaron Lightner
+Maintainer: Aaron Lightner <alightner2@gmail.com>
+Description: The data package included here includes publicly available data relevant to an existing publication. Data were collected in Monduli, Tanzania during the months of January through March 2020.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
