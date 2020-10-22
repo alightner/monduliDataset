@@ -1,0 +1,5 @@
+# Data collected in Monduli, Tanzania
+
+This data package is linked to the publication, "Acculturation and market integration are associated with greater trust among Tanzanian Maasai pastoralists". All data are anonymized and a low risk of identifiability was tested for an confirmed using sdcMicro. (This can be confirmed in an anonymization testing script, included in this package.) To ensure that certain participants were not identifiable, two key transformations were made: (1) ages > 80 years were truncated at 80, and (2) participants with > 40 children were truncated at 40. 
+
+Confirmatory results in the paper to which this data package is linked should remain unaffected by this change, because neither of these variables are included in our main tests. They are, however, included in our exploratory results, so this transformation may *slightly* alter a replication of those results.
